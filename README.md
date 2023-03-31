@@ -1,5 +1,2 @@
-#Binary Tree
-In computer science, a binary tree is a k-ary 
-�
-=
-2
+Tree represents the nodes connected by edges. We will discuss binary tree or binary search tree specifically.
+
